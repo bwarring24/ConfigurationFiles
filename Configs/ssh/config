@@ -1,0 +1,7 @@
+Host home
+    HostName server.blakewarrington.net
+    User administrator
+
+Host wasp
+    HostName wasp.cs.kent.edu
+    User bwarrin2
